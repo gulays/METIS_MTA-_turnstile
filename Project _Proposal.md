@@ -6,7 +6,7 @@
 * day of the week
 * time of the day.
 
-The database that will be used is MTA turnstile data, about the patterns of transit traffic in New York City between February, 2019 and June 2019 - to eliminate the effect Covid 19 pandemic on public transit. The variable of interest will be the entry and exit of the on-foot traffic, i.e. ENTRIES, the cumulative entry register value for a device, and EXIST, the cumulative exit register value. All analysis will be done on Jupyter notebook with the help of pandas, SQLAlchemy.
+The database that will be used is MTA turnstile data, about the patterns of transit traffic in New York City between February, 2019 and June 2019 - to eliminate the effect Covid 19 pandemic on public transit. The variable of interest will be the entry and exit of the on-foot traffic, i.e. ENTRIES, the cumulative entry register value for a device, and EXIST, the cumulative exit register value. All analysis will be done on Jupyter notebook with the help of pandas, SQLAlchemy and Matplotlib.
 
 
 
