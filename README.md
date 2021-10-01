@@ -1,8 +1,8 @@
 ﻿
 
-Gulay Samatli-Pac
 
-WomenTechWomenYes (WTWY) Member
+
+# WomenTechWomenYes (WTWY) Member
 
 Acquisition Strategy - New York City
 
@@ -53,12 +53,6 @@ The Census Data from more than 2000 census tracts across the five boroughs is us
 answer the following questions:
 
 ● the borough with the highest average income per capita
-
-
-
-
-
-Gulay Samatli-Pac
 
 ● the borough with the highest women percentage
 
